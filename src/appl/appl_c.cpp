@@ -13,7 +13,7 @@
 
 */
 
-void appl_c(void)
+void appl_ccc(void)
 {
 	// do nothing
 }
