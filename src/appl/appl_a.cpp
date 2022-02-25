@@ -37,8 +37,9 @@ typedef float   salary;
 // Returns:
 //  None    
 //------------------------------------------------------------
-void appl_a(void)
+void appl_asss(void)
 {
+// rainy day, we need to check this and that
    mark    m1, m2;
    salary  s1, s2;     // static declarion of variables.
 	uint seniority;

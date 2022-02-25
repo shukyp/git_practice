@@ -13,7 +13,7 @@
 
 */
 
-void appl_b(void)
+void appl_ddd(void)
 {
 	// do nothing
 }
