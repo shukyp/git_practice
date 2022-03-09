@@ -7,5 +7,7 @@
 
 #define SOME_VERY_NEW_VAL  100
 
+#define SOME_WEIRD_VAL  111
+
 
 #endif // A_H
