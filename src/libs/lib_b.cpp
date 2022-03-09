@@ -13,6 +13,8 @@
 
 #include <iostream>
 
+// kukuriku
+
 // C style
 enum DAY { MON = 2, YUE, WED, THU, FRI, SAT, SUN };             // enumerated from 0 upwards
 
